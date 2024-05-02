@@ -1,3 +1,4 @@
+google.com, pub-5356503774402269, DIRECT, f08c47fec0942fa0
 import { fileURLToPath } from 'url';
 import ESLintPlugin from 'eslint-webpack-plugin';
 import TerserPlugin from 'terser-webpack-plugin';
